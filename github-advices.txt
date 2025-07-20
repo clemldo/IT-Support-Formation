@@ -1,0 +1,95 @@
+✅ For Each Course, Include:
+1. Course Overview
+In README.md inside each course folder:
+
+Course title and number (e.g., Course 1: Technical Support Fundamentals)
+
+A short summary of the course content.
+
+What tools, topics, or skills were covered.
+
+✅ Example:
+
+markdown
+Copy
+Edit
+# Course 1: Technical Support Fundamentals
+
+This course covers the basics of IT support, including computer hardware, software, the Internet, troubleshooting, and customer service.
+
+## Topics Covered
+- Binary and hexadecimal systems
+- Internal components of a computer
+- Operating systems
+- Troubleshooting techniques
+2. What You Learned
+Use bullet points to highlight key takeaways.
+
+✅ Example:
+
+markdown
+Copy
+Edit
+## What I Learned
+- How to use basic command-line tools in Linux
+- How to identify and troubleshoot common hardware problems
+- The basics of networking and protocols
+- The role of an IT support specialist
+3. Hands-On Labs / Projects / Practice Work
+Include files or links to your work. You can structure it like this:
+
+Scripts you wrote (.sh, .py, .bat)
+
+Lab solutions or notes
+
+Screenshots of completed projects (e.g., terminal outputs, diagrams)
+
+Reflections: What was hard? What did you enjoy?
+
+✅ Example:
+
+markdown
+Copy
+Edit
+## Practice Work
+- [x] Created a Bash script to check disk space
+- [x] Simulated a support ticket scenario
+- [x] Configured a Linux virtual machine
+
+Scripts are in the `scripts/` folder.
+4. Challenges or Notes
+Reflect a bit on your experience.
+
+✅ Example:
+
+markdown
+Copy
+Edit
+## Challenges
+- Had trouble with using `chmod` and understanding file permissions.
+- Needed to review the difference between TCP and UDP.
+
+## Notes
+- Always check `man` pages for command help.
+5. Optional but Impressive
+Checklist for course completion
+
+Badges (from Coursera or Google)
+
+Links to certificates
+
+Improvements you'd make if you redid the course or expanded on it
+
+✅ Example:
+
+markdown
+Copy
+Edit
+## Certificate
+[View Certificate on Coursera](https://www.coursera.org/account/accomplishments/certificate/ABC123XYZ)
+
+## To Improve
+- Try automating some tasks with Python
+- Review networking concepts with a packet capture tool (e.g., Wireshark)
+💡 Tip:
+Keep the tone simple and professional. Think of it as both a portfolio and a learning journal.
