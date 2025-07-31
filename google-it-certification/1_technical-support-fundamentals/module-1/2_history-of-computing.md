@@ -1,18 +1,18 @@
-# [ History of Computing ] - [ Discover significant breakthroughs and advances that made modern computers ] - [ 2025-07-24 ]
+# [ History of Computing ] - [ 2025-07-23 ]
 
----
+Discover significant breakthroughs and advances that made modern computers.
 
 ## Summary
 
 1. 🔢 [Computers are calculation](#calculation)
 
-2. 📈 [Stages of Computer evolution](#^section-two)
+2. 📈 [Stages of Computer evolution](#stages-of-computer-evolution)
 
-3. 🖥️ [Age of computing](#^section-tree)
+3. 🖥️ [Age of computing](#age-of-computing-and-operating-system)
 
-4. 🏛️ [Pioneers in Computing](#^section-four)
+4. 🏛️ [Pioneers in Computing](#pioneers-in-computing)
 
-5. 🧠 [Notions](#^section-five)
+5. 🧠 [Notions](#notions)
 
 ---
 ### Calculation
@@ -31,28 +31,14 @@
 In 1950 **punch cards** were a popular way to store data, then be replace by **magnetic tape**.
 Analytical engines was huge and works with **vacuum tubes**.
 
-![Alt](https://imgs.search.brave.com/uk2Ysa6q7mEwuGVkKCRNa7nIi-YpHwEZhueNecDmfVI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2UyL0NITV9BcnRp/ZmFjdHNfSUJNXzk2/LWhvbGVfcHVuY2hl/ZF9jYXJkX2Zyb21f/MTk2OV8oMzEyNzA4/NjkzMikuanBn)
-
-
-
----
-
 **ENIAC** was the first programmable general-purpose computer.
-
-
-
-![Alt text](https://cdn.britannica.com/95/170195-050-EFCB2F83/ENIAC-1946.jpg)
-
----
 
 <u>Admiral Grace Hopper</u> were a computer scientist that invented the very first **compiler**
 
 The <u>Xerox Alto </u>, considered one of the first workstations or personal computer, it had multiples aspect of a modern computer including a **GUI (graphical user interface),** a mouse, Ethernet networking and **multi-processing**.
+---
 
-![Alt](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Xerox_Alto_mit_Rechner.JPG/800px-Xerox_Alto_mit_Rechner.JPG)
-
-
-### 🖥️ Age of computing and operating system ^section-tree
+### Age of computing and Operating System
 
 In 1970, <u>Steve Woziak</u> invented the **Apple 1**, a computer meant for hobbyists, and with his friend <u>Steve Jobs</u>, they created a company called <u>Apple Computer</u>.
 
@@ -71,7 +57,7 @@ allow computing to go mobile, all-in-one handy handheld device.
 In the late 1990's, begin age of **smartphone**.
 
 ---
-### 🏛️ Pioneers in Computing ^section-four
+### Pioneers in Computing
 
 
 <u>Ada Lovelace</u>
@@ -93,7 +79,7 @@ She developed software for predicting weather. She also work on a software that 
 
 She worked on the programming team for the Mark I
 
-### 🧠 NOTIONS: ^section-five
+### NOTIONS:
 
 **Binary system:** A system of encoding information using only two possible values, typically represented as 0 and 1, often corresponding to off and on states.
 
@@ -101,7 +87,7 @@ She worked on the programming team for the Mark I
 
 **Cryptography:** The art of writing and solving codes
 
-**Data processing:** Any process that uses a program to enter data and summarize, analyse or otherwise convert data into usable information
+**Data processing:** Any process that uses a program to enter data and summarize, analyze or otherwise convert data into usable information
 
 **Compiler:** A process to translate human language via a programming language into a machine code
 

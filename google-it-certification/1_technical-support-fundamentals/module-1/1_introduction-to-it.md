@@ -1,4 +1,6 @@
-# What is IT ?
+# [Introduction to IT Support] - [2025-07-21]
+
+## What is IT ?
 
 Information technology can be define by a large scope of news digital technologies, including computers systems, network, software, storage devices, data management.
 
@@ -17,7 +19,7 @@ In general make sure an organization's technological equipment is running smooth
 - Troubleshooting
 - Configuring
 
-## Soft-skills are important !
+## Soft-skills are important!
 
 - Ability to explain technologies to anyone
 - Collaboration
