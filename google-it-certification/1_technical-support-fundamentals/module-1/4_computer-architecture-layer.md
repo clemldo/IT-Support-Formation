@@ -1,22 +1,22 @@
-# [Computer Architecture Layout] - [ 2025-07-29 ]
+# [Computer Architecture Layout] - [2025-07-29]
 
-**Computer can be cut into four main layers:**
+**A computer can be divided into four main layers:**
 
 - Hardware
 - Operating System
 - Software
-- User interface
+- User Interface
 
-We go from the most technical, low-level of the machine (hardware and components) into the most accessible part (user interface).
+We move from the most technical, low-level part of the machine (hardware and components) to the most accessible part (user interface).
 
 ### Notions
 
-**Abstraction:** To take a relatively complex system and simplify it for our use.
+**Abstraction:** The process of taking a relatively complex system and simplifying it for our use.
 
-**Hardware layer:** Made up the physical components of a computer.
+**Hardware layer:** Consists of the physical components of a computer.
 
-**Operating system:** Allows hardware to communicate with the system.
+**Operating system:** Allows hardware to communicate with the rest of the system.
 
-**Software layer:** How we as humans interact with our computer
+**Software layer:** The programs and applications that allow us, as humans, to interact with the computer.
 
-**User:** Interacts with the computer
+**User:** The person who interacts with the computer.

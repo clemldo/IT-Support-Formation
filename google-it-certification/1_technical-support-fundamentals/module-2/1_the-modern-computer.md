@@ -1,78 +1,86 @@
-# [The modern Computer] - [2025-07-30]
+# [The Modern Computer] - [2025-07-30]
 
 🎯 In IT, **hardware** is an essential topic to understand.
-The objective of this course is to describe all the physical parts of computer and how they work together.
+📚 The objective of this course is to describe all the physical parts of a computer and how they work together.
 
 ---
 
-### Introduction to Hardwares
+- [\[The Modern Computer\] - \[2025-07-30\]](#the-modern-computer---2025-07-30)
+    - [Introduction to Hardware](#introduction-to-hardware)
+    - [Programs, CPU, and Memory](#programs-cpu-and-memory)
+    - [Notions](#notions)
 
-Typical **desktop** setup:
+---
 
-- A monitor 🖥️
-- A keyboard ⌨️
-- A mouse 🖱️
-- The desktop ⚙️
+### Introduction to Hardware
 
-We also can include:
+🖥️ A typical **desktop** setup includes:
+- A monitor
+- A keyboard
+- A mouse
+- The desktop tower
 
-- Printer setup
+🖨️ We can also include:
+- Printer
 - Speakers
 - Webcam
 
-🔌 At the back of the computer:
-
-- Display port (HDMI,  )
-- Audio port
-- USB port
+🔌 At the back of the computer, you will find:
+- Display ports (HDMI, etc.)
+- Audio ports
+- USB ports
 - Network connection port
 
-
-⚙️ Components in the computer:
-
+⚙️ Components inside the computer:
 - CPU (Central Processing Unit)
-- RAM (Random access memory)
-- The Hard drive
-- The Motherboard
+- RAM (Random Access Memory)
+- Hard drive
+- Motherboard
 
 ---
 
-### Programs, CPU and memory
+### Programs, CPU, and Memory
 
-A CPU constantly receives instruction and executes them.\
-It calculates very fast *e.g. an Intel Core i7 can perform 177,730 **MIPS** (Millions of Instructions Per Second) at a **clock speed** of 3.33 **GHz**.* \
-All the instructions are written in binary.
+🧠 A CPU constantly receives instructions and executes them.
+⚡ It calculates very fast. *For example, an Intel Core i7 can perform 177,730 **MIPS** (Millions of Instructions Per Second) at a **clock speed** of 3.33 **GHz**.*
+💾 All instructions are written in binary.
 
+🔗 This information travels around the computer using the **external data bus (EDB)**, which is made up of wires that carry "on-off" (binary voltage) signals.
+📏 It comes in different sizes (8-bit, 16-bit, 32-bit, even 64-bit).
 
-These information travel around the computer using **external data bus (EDB)**, divide by "on-off" state wires (or binary voltage).\
-It comes in diff sizes (A bit, 16-bit, 32 even 64).
+📦 Inside the CPU are components known as **registers**, which allow it to store the data it is working with.
+➕ *For example, to add two numbers, a CPU needs to store each number, the result, and the operator in different registers.*
 
-Inside the CPU they're components known as **registers**, they allow to store the data that our CPU works with.\
-*e.g. To add two number a CPU need to store each number, the result and the operator in diff register*
-
-Our programs are copied into RAM for the CPU to read, it represents a lot (some billion) of data  and CPU needs to read RAM data quickly as possible.\
-Therefore, we use **the memory controller chip (MCC)** instead of **EDB**.\
-Also, CPU and MCC using that called **address bus** that store the location of the data.
+🗃️ Our programs are copied into RAM for the CPU to read. RAM represents a large amount (sometimes billions) of data, and the CPU needs to read RAM data as quickly as possible.
+🛣️ Therefore, we use the **memory controller chip (MCC)** instead of the EDB.
+🗺️ Also, the CPU and MCC use what is called the **address bus** to store the location of the data.
 
 ![How request and data move around components](data-request-circulation.png)
 
+⚡ For processing, the CPU also uses **cache memory**, which is smaller than RAM but stores data that is used often.
+🔢 There are 3 cache levels in a CPU: L1 (smallest and fastest), L2, and L3.
+
+⏰ The CPU has an internal clock that keeps operations in sync. It connects to a **clock wire**.
+
 ---
 
-### 📚 Notions
+### Notions
 
-**CPU (Central Processing Unit):** The brain of our computer, it does all the calculations and data processing.
+🧠 **CPU (Central Processing Unit):** The brain of the computer; it does all the calculations and data processing.
 
-**RAM (Random access memory):** Our computer's short-term memory
+💾 **RAM (Random Access Memory):** The computer's short-term memory.
 
-**Hard drive:** Holds all of our data, which includes all of our files, pictures, applications etc.
+🗄️ **Hard drive:** Stores all of our data, including files, pictures, applications, etc.
 
-**Motherboard:** The body or circulatory system of the computer that connects all the pieces together
+🧩 **Motherboard:** The body or circulatory system of the computer that connects all the components together.
 
-**Programs:** Instruction that tell the computer what to do
+📜 **Programs:** Instructions that tell the computer what to do.
 
-**External data bus (EDB):** A row of wires that interconnect the parts of our computer.
+🔗 **External data bus (EDB):** A row of wires that interconnects the parts of the computer.
 
-**memory controller chip (MCC)**: The bridge between CPU and RAM.
+🛣️ **Memory controller chip (MCC):** The bridge between the CPU and RAM.
 
-**Clock rate:** The frequency (hertz or Hz) at which a computer's CPU executes instructions.
+⚡ **Cache memory:** A small amount of memory that stores data we use often.
+
+⏱️ **Clock speed:** The maximum number of clock cycles the CPU can handle in a certain time period. Measured in hertz (Hz); for example, 3.40 gigahertz = 3.4 billion cycles per second.
 

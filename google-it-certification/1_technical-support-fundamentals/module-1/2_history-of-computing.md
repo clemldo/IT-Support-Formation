@@ -102,3 +102,19 @@ She worked on the programming team for the Mark I
 ### 📚 External Resources:
 
 [Link text]
+
+[Abacus Lessons](https://www.youtube.com/watch?v=SkUdjlQy3rk)
+
+[A Turing Machine](https://www.youtube.com/watch?v=E3keLeMwfHY)
+
+[Why The First Computers Were Made Out Of Light Bulbs](https://www.youtube.com/watch?v=FU_YFpfDqqA)
+
+[Computer History 1946 ENIAC](https://www.youtube.com/watch?v=bGk9W65vXNA)
+
+[NASA’s first software engineer: Margaret Hamilton ](https://www.youtube.com/watch?v=kYCZPXSVvOQ)
+
+[Ada Lovelace](https://www.youtube.com/watch?v=Qh8d2a1b3j0)
+
+[The Making of GNU](https://www.youtube.com/watch?v=sQDvkd2wtxU)
+
+[The Making of Linux:](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
